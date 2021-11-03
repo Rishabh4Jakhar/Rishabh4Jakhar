@@ -10,6 +10,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh4Jakhar&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh4Jakhar&show_icons=true&hide_border=true&theme=radical&count_private=true)
+" />
 
 </details>
