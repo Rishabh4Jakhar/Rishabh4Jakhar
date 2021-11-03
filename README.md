@@ -4,3 +4,12 @@
 - 💞️ I’m looking to collaborate on makind discord bots
 - 📫 How to reach me discord: Rishabh#9012 or email: rishabhjakhar04@gmail.com
 
+# My Discord
+[![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.gg/zPmc6wV)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh4Jakhar&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
