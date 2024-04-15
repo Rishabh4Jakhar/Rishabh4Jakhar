@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m interested in making discord bots and Game Links#5724 is one of my best creations so far
-- 🌱 I’m currently trying to learn js and am pretty good in python 
-- 💞️ I’m looking to collaborate on making discord bots
-- 📫 How to reach me discord: Rishabh#9012 or email: rishabhjakhar337@gmail.com
+- 👀 ~~I’m interested in making discord bots and Game Links#5724 is one of my best creations so far~~ Actually was, no more interest in this. Doing some web dev and useless projects rn.
+- 🌱 Languages: Python, C, C++, HTML, CSS
+- 💞️ DM me for collabs
+- 📫 How to reach me, Discord: ria.4 or email: rishabhjakhar337@gmail.com
 
 # My Discord
 [![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.gg/zPmc6wV)
