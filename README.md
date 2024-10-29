@@ -8,10 +8,14 @@
 [![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.gg/zPmc6wV)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <br>
-  <img align="left" alt="Rishabh4Jakhar's Contribution Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=Rishabh4Jakhar&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-  <br>
-  <img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh4Jakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=2" />
-
+<summary>:zap: GitHub Stats</summary>
+<br>
+<img align="left" alt="Rishabh4Jakhar's Contribution Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=Rishabh4Jakhar&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<br>
+<img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh4Jakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=2" />
+<br>
+<img align="left" alt="Rishabh4Jakhar's Streak Graph" src="https://streak-stats.demolab.com/?user=Rishabh4Jakhar&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"/>
+<br>
+<img align="center" margin-left="50px" alt="Rishabh4Jakhar's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishabh4&layout=compact&lang_count=20)](https://wakatime.com/@Rishabh4)"/>
+<br>
 </details>
