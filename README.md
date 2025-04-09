@@ -5,7 +5,7 @@
 - 📫 How to reach me, Discord: ria.4 or email: rishabhjakhar04@gmail.com
 
 # My Discord
-[![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.gg/zPmc6wV)
+[![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.com/users/713056818972066140)
 
 <details>
 <summary>:zap: GitHub Stats</summary>
