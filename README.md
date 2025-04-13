@@ -21,7 +21,7 @@
 <img align="center" margin-left="50px" margin-top="50px" alt="Rishabh4Jakhar's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishabh4&layout=compact&lang_count=20)](https://wakatime.com/@Rishabh4)"/>
 </div>
 <div align = "center">
-<img align="left" alt="Rishabh4Jakhar's GitHub Stats" src="https://awesomesam.vercel.app/api?username=Rishabh4Jakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=2" height="200" alt="contrib count"/>
-<img src="https://streak-stats.demolab.com?user=AwesomeSam9523&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-<img src="https://awesomesam.vercel.app/api/top-langs?username=Rishabh4Jakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1" height="200" alt="language graph"/>
+<img alt="Rishabh4Jakhar's GitHub Stats" src="https://awesomesam.vercel.app/api?username=Rishabh4Jakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=2" height="150"/>
+<img src="https://streak-stats.demolab.com?user=AwesomeSam9523&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://awesomesam.vercel.app/api/top-langs?username=Rishabh4Jakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1" height="150" alt="language graph"/>
 </div>
