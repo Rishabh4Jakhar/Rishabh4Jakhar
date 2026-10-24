@@ -11,7 +11,7 @@
 # GitHub Stats
 <div>
 <br>
-<img align="left" alt="Rishabh4Jakhar's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh4Jakhar&bg_color=141321&area_color=d83a7c&color=a5f8f1&line=d83a7c&point=d83a7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+<img align="left" alt="Rishabh4Jakhar's Contribution Graph" src="https://github-act-graph.rodriaum.com/graph?username=Rishabh4Jakhar&bg_color=141321&area_color=d83a7c&color=a5f8f1&line=d83a7c&point=d83a7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 <br>
 </div>
 <br>
